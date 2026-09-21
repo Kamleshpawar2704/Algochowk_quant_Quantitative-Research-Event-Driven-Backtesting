@@ -151,6 +151,11 @@ The analysis specifically challenges:
 
 This is an index-level event study using daily OHLC data. It is not a complete execution model, does not model market impact, does not use intraday information, and does not establish a causal mechanism for any recovery. A negative or unstable result is a valid research outcome.
 
+## Video Explanation
+
+Video Explanation Link:https://drive.google.com/file/d/14pGrJGphhUAND_r9zKT_LsgCSeBddGA8/view?usp=sharing
+
+
 ## Source links
 
 - Yahoo Finance NIFTY 50 historical data: https://finance.yahoo.com/quote/%5ENSEI/history/
