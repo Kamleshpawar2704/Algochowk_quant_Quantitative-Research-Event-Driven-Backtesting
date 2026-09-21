@@ -146,9 +146,6 @@ The analysis specifically challenges:
 6. **Regime dependence:** development and final out-of-sample periods are reported separately.
 7. **Sample size:** event counts are always displayed beside summary statistics.
 
-## Submission package
-
-The assignment asks for a GitHub repository, a max-2-page Research Note, README, max-1-page AI Usage Note, and a 2–3 minute walkthrough video. This repository contains the written components and a reproducible application; the video should demonstrate the experiment controls, evidence matrix, robustness table, OOS split and backtest rather than simply scrolling through code.
 
 ## Important limitation
 
